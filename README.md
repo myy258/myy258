@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myy258
-- 👀 I’m interested in machine-learning
-- 🌱 I’m currently learning deep-learning
+- 👀 I’m interested in AI
+- 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
 <!---
