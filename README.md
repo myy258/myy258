@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myy258
 - 👀 I’m interested in machine-learning
 - 🌱 I’m currently learning deep-learning
-- ☀️ I’m data scientist
+- ☀️ A seasoned player
 
 <!---
 myy258/myy258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
