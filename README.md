@@ -3,7 +3,8 @@
 - 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
-![Visitor Count](https://profile-counter.glitch.me/MYY/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYY&layout=compact&theme=tokyonight)
+
 
 
 <!---
