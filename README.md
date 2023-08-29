@@ -3,11 +3,11 @@
 - 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
+![](https://github-readme-stats.vercel.app/api?username=MYY&show_icons=true&theme=transparent)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYY&layout=compact&theme=tokyonight)
-
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=MYY&theme=dracula)
-
 
 
 <!---
