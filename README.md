@@ -3,7 +3,8 @@
 - 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
-![](https://github-readme-stats.vercel.app/api?username=myy258&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=myy258&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myy258&layout=compact&theme=tokyonight)
+
 
 
 
