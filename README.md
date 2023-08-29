@@ -3,7 +3,8 @@
 - 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
-[![](https://github-readme-stats.vercel.app/api?username=MYY)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MYYe&show_icons=true&theme=transparent)
+
 
 <!---
 myy258/myy258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
