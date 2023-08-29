@@ -3,7 +3,7 @@
 - 🌱 Engaged in AI work
 - ☀️ A seasoned player
 
-![](https://github-readme-stats.vercel.app/api?username=myy258&show_icons=true&theme=synthwave)   
+![](https://github-readme-stats.vercel.app/api?username=myy258&show_icons=true&theme=radical)   
 
 
 
